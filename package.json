@@ -38,12 +38,12 @@
     "react-native-reanimated": "4.7.1",
     "typescript": "~6.0.3"
   },
-  "repository": {
+"repository": {
   "type": "git",
-  "url": "https://github.com/YOUR_USERNAME/squishybutton.git"
+  "url": "https://github.com/avIsLokal/avIsLokal-squishyButton.git"
 },
-"homepage": "https://github.com/YOUR_USERNAME/squishybutton#readme",
+"homepage": "https://github.com/avIsLokal/avIsLokal-squishyButton#readme",
 "bugs": {
-  "url": "https://github.com/YOUR_USERNAME/squishybutton/issues"
+  "url": "https://github.com/avIsLokal/avIsLokal-squishyButton/issues"
 }
 }
