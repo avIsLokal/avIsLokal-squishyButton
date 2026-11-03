@@ -1,18 +1,15 @@
 {
   "name": "squishybutton",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A customizable squishy animated button for React Native",
   "license": "MIT",
-
-"main": "node_modules/expo/AppEntry.js",
+  "main": "node_modules/expo/AppEntry.js",
   "types": "lib/index.d.ts",
-
   "files": [
     "lib/",
     "README.md",
     "LICENSE"
   ],
-
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
     "prepack": "npm run build",
@@ -20,13 +17,11 @@
     "android": "expo start --android",
     "ios": "expo start --ios"
   },
-
   "peerDependencies": {
     "react": "^19.3.0",
     "react-native": "^0.88.1",
     "react-native-reanimated": "^4.7.1"
   },
-
   "devDependencies": {
     "@types/react": "~19.3.0",
     "expo": "~58.0.22",
@@ -38,12 +33,12 @@
     "react-native-reanimated": "4.7.1",
     "typescript": "~6.0.3"
   },
-"repository": {
-  "type": "git",
-  "url": "https://github.com/avIsLokal/avIsLokal-squishyButton.git"
-},
-"homepage": "https://github.com/avIsLokal/avIsLokal-squishyButton#readme",
-"bugs": {
-  "url": "https://github.com/avIsLokal/avIsLokal-squishyButton/issues"
-}
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avIsLokal/avIsLokal-squishyButton.git"
+  },
+  "homepage": "https://github.com/avIsLokal/avIsLokal-squishyButton#readme",
+  "bugs": {
+    "url": "https://github.com/avIsLokal/avIsLokal-squishyButton/issues"
+  }
 }
