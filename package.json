@@ -37,5 +37,13 @@
     "react-native-gesture-handler": "~3.3.0",
     "react-native-reanimated": "4.7.1",
     "typescript": "~6.0.3"
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/YOUR_USERNAME/squishybutton.git"
+},
+"homepage": "https://github.com/YOUR_USERNAME/squishybutton#readme",
+"bugs": {
+  "url": "https://github.com/YOUR_USERNAME/squishybutton/issues"
+}
 }
