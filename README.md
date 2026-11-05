@@ -1,5 +1,5 @@
 # 🧽 SpongeButton
-
+<video src="Demo.mov" width="600" controls></video>
 A squishy, elastic animated button component for React Native — press it and watch it compress, spread, and bounce back like a soft sponge.
 
 Built with **React Native Reanimated** for buttery-smooth 60 FPS+ animations that run entirely on the native UI thread with zero React re-renders during animation.
