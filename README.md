@@ -1,4 +1,4 @@
-# 🧽 SpongeButton
+# 🧽 SquishyButtons
 
 <p align="center">
   <img src="Demo-2.gif" alt="SpongeButton Demo" width="300" />
